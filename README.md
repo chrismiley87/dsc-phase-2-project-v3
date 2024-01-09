@@ -19,16 +19,15 @@ This project uses descriptive analysis, including analysis of most profitable mo
 ## Results
 
 There is a strong relationship between worldwide gross and total profit, but not between production budget and total profit. 
-![linear_relationships_with_total_profit](./images/linear_total_profit.jpg)
-![regression_worldwide_gross](./images/regression_worldwide_gross_profit.jpg)
+![Worldwide Gross vs Profit](./images/worldwide_gross_vs_profit.jpg)
+![Production Budget vs Profit](./images/budget_vs_profit.jpg)
 
 There are specific actors and directors that reliably produce top profits.
-![frequent_actors_directors](./images/frequent_actors_directors.jpg)
-![top_actors_and_directors_by_mean_profit](./images/top_actors_directors.jpg)
+![Top 5 Directors](./images/top_directors.jpg)
+![Top 5 Actors](./images/top_actors.jpg)
 
 The action/adventure/sci-fi genre is most associated with these names and is the most profitable genre.
-![top_names_by_genre](./images/count_names_by_genre.jpg)
-![top_genres](./images/top_genres.jpg)
+![Top Genres](./images/top_genres.jpg)
 
 ## Conclusions
 
@@ -36,7 +35,7 @@ The conducted analysis leads to three recommendations for movie production:
 
 * **Focus on Action/Adventure/Sci-Fi.** This seems to be all the rage at the box office right now, as our analysis indicated this was the most profitable genre and involves the most profitable actors/directors. 
 
-* **Certain Actors and Directors are Reliable Money-Makers.** Actors like Chris Evans and Scarlett Johansson, as well as directors like the Russo Brothers and Christopher Nolan, seem to frequently strike gold at the box office. It would only make sense to seek them out for projects. 
+* **Certain Actors and Directors are Reliable Money-Makers.** Actors like Chris Evans, as well as directors like the Russo Brothers, seem to frequently strike gold at the box office. It would only make sense to seek them out for projects. 
 
 * **Don't Focus So Much On Budget and Aim for International Release.** While you may think that a higher production budget inevitably results in higher profits, this has been demonstrated to not necessarily be the case, as there have been plenty of flops over the years. Regardless of the budget, the worldwide gross will dictate the amount of profit the movie ultimately generates. 
 
@@ -44,7 +43,7 @@ The conducted analysis leads to three recommendations for movie production:
 
 See the full analysis in the [Jupyter Notebook](./notebook.ipynb) or review this [presentation](./Presentation.pdf).
 
-For additional info, contact Christopher Miley at [chrismiley87@gmail.com](mailto:chrismiley87@gmail.com)
+See the dataset used by clicking [here](./movie_data/).
 
 ## Repository Structure
 
