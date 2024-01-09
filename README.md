@@ -20,7 +20,15 @@ This project uses descriptive analysis, including analysis of most profitable mo
 
 There is a strong relationship between worldwide gross and total profit, but not between production budget and total profit. 
 ![linear_relationships_with_total_profit](./images/linear_total_profit.jpg)
+![regression_worldwide_gross](./images/regression_worldwide_gross_profit.jpg)
 
+There are specific actors and directors that reliably produce top profits.
+![frequent_actors_directors](./images/frequent_actors_directors.jpg)
+![top_actors_and_directors_by_mean_profit](./images/top_actors_diresctors.jpg)
+
+The action/adventure/sci-fi genre is most associated with these names and is the most profitable genre.
+![top_names_by_genre](./images/count_names_by_genre.jpg)
+![top_genres](./images/top_genres.jpg)
 
 ## Conclusions
 
@@ -41,9 +49,10 @@ For additional info, contact Christopher Miley at [chrismiley87@gmail.com](mailt
 ## Repository Structure
 
 ```
-├── data
 ├── images
+├── movie_data
 ├── Presentation.pdf
 ├── README.md
-└── notebook.ipynb
+├── notebook.ipynb
+└── notebook.pdf
 ```
