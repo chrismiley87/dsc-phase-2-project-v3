@@ -50,7 +50,7 @@ See the dataset used by clicking [here](./movie_data/).
 ```
 ├── images
 ├── movie_data
-├── Presentation.pdf
 ├── README.md
-└── notebook.ipynb
+├── notebook.ipynb
+└── presentation.pdf
 ```
