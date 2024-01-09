@@ -19,7 +19,7 @@ This project uses descriptive analysis, including analysis of most profitable mo
 ## Results
 
 There is a strong relationship between worldwide gross and total profit, but not between production budget and total profit. 
-![linear_relationships_with_total_profit](./images/linear_total_profit.jpg)
+![linear_relationships_with_total_profit](./images/linear_total_profit.jpeg)
 
 
 ## Conclusions
