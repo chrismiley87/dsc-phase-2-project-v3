@@ -19,7 +19,7 @@ This project uses descriptive analysis, including analysis of most profitable mo
 ## Results
 
 There is a strong relationship between worldwide gross and total profit, but not between production budget and total profit. 
-![linear_relationships_with_total_profit](./images/linear_total_profit.jpeg)
+![linear_relationships_with_total_profit](./images/linear_total_profit.jpg)
 
 
 ## Conclusions
@@ -31,3 +31,19 @@ The conducted analysis leads to three recommendations for movie production:
 * **Certain Actors and Directors are Reliable Money-Makers.** Actors like Chris Evans and Scarlett Johansson, as well as directors like the Russo Brothers and Christopher Nolan, seem to frequently strike gold at the box office. It would only make sense to seek them out for projects. 
 
 * **Don't Focus So Much On Budget and Aim for International Release.** While you may think that a higher production budget inevitably results in higher profits, this has been demonstrated to not necessarily be the case, as there have been plenty of flops over the years. Regardless of the budget, the worldwide gross will dictate the amount of profit the movie ultimately generates. 
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](./notebook.ipynb) or review this [presentation](./Presentation.pdf).
+
+For additional info, contact Christopher Miley at [chrismiley87@gmail.com](mailto:chrismiley87@gmail.com)
+
+## Repository Structure
+
+```
+├── data
+├── images
+├── Presentation.pdf
+├── README.md
+└── notebook.ipynb
+```
