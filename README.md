@@ -53,6 +53,5 @@ For additional info, contact Christopher Miley at [chrismiley87@gmail.com](mailt
 ├── movie_data
 ├── Presentation.pdf
 ├── README.md
-├── notebook.ipynb
-└── notebook.pdf
+└── notebook.ipynb
 ```
