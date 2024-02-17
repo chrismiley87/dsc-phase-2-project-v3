@@ -11,7 +11,7 @@ Your company now sees all the big companies creating original video content and 
 ## Data 
 
 There were two datasets in particular that were used for this analysis. One dataset, called 'tn.movie_budgets.csv', contains a sample of over five thousand movies and their respective production budget, domestic gross, and worldwide gross. The other dataset, called 'im.db', is a SQL database containing a large dataset from IMDB, a database about movies. The key tables used contained information about a movie's name, genre, and release date, as well as principal actors and directors associated with that movie.
-![Profit_Measures](./images/budget_vs_profit%20 .jpg)
+![Profit_Measures](./images/budget_vs_profit.jpg)
 
 ## Methods
 
